@@ -19,6 +19,3 @@ This project aims to improve field segmentation in agriculture for better crop h
 |  Cloud Computing  | [Github](https://github.com/Bangkit-Capstone-Solafune-C242-FS01/cloud-computing)  |
 | Frontend | [Github](https://github.com/Bangkit-Capstone-Solafune-C242-FS01/frontend) |
 | Backend | [Github](https://github.com/Bangkit-Capstone-Solafune-C242-FS01/backend) |
-
-## Project Documents
-- Project Plan : https://drive.google.com/file/d/1I3enue705e1mrKjtTmz2HJrKIwm6zKgl/view?usp=sharing
