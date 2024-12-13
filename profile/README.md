@@ -1,6 +1,6 @@
 # [C242-FS] Implementation of Field Area Segmentation Model
 <div align="center">
-<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/.github/blob/main/assets/logo.png" width="100%" height="100%" >
+<img src="https://github.com/Bangkit-Capstone-Solafune-C242-FS01/.github/blob/main/assets/logo.png" width="50%" height="50%" >
 </div>
 
 ## About
